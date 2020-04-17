@@ -1,7 +1,7 @@
 Model-Predictive Control via Cross-Entropy and Gradient-Based Optimization
 ======
 
-Code accompanying the paper Model-Predictive Control via Cross-Entropy and Gradient-Based Optimization with authors Homanga Bharadhwaj, Kevin Xie, and Florian Shkurti (First two authors contributed equally) 
+Code accompanying the paper Model-Predictive Control via Cross-Entropy and Gradient-Based Optimization with authors Homanga Bharadhwaj, Kevin Xie, and Florian Shkurti (First two authors contributed equally). To be presented in L4DC 2020.
 
 Requirements
 ------------
